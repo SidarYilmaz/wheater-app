@@ -1,5 +1,5 @@
 # wheater-app
 
-#Projenin ekran görüntüsü aşağıda paylaşılmıştır.
+Projenin ekran görüntüsü aşağıda paylaşılmıştır.
 
 ![Hava Durumu](WheaterApp/images/wheater.png)
